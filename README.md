@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**eumarciel404/eumarciel404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Marcelo Neves (a.k.a Marciel404)
+I'm from Brazil i'm 20 years old
+I'm JavaScript/TypeScript and python developer
+My outher account has been blocked
 
-Here are some ideas to get you started:
+Some of the projects I work on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [RE=L BOT](https://resitedev.squareweb.app/br) Utilities bot discord (I will buy a domain)
+
+- [Markuus BOT](https://github.com/MarkuusBot/Markuus) Discord Bot for fun (I will back with this project)
+
+I'm a nerd who has always been passionate about technology, even more so after my father passed away
+
+<div>
+  <a href="https://github.com/eumarciel404">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eumarciel404&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumarciel404&layout=compact&langs_count=7&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&theme=dark"/>
+  </a>
+</div>
